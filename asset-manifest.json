@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/e-commerce-project-contextAPI/static/css/main.c42da526.chunk.css",
+    "main.js": "/e-commerce-project-contextAPI/static/js/main.218b9331.chunk.js",
+    "main.js.map": "/e-commerce-project-contextAPI/static/js/main.218b9331.chunk.js.map",
+    "runtime~main.js": "/e-commerce-project-contextAPI/static/js/runtime~main.453f3c57.js",
+    "runtime~main.js.map": "/e-commerce-project-contextAPI/static/js/runtime~main.453f3c57.js.map",
+    "static/js/2.07421125.chunk.js": "/e-commerce-project-contextAPI/static/js/2.07421125.chunk.js",
+    "static/js/2.07421125.chunk.js.map": "/e-commerce-project-contextAPI/static/js/2.07421125.chunk.js.map",
+    "index.html": "/e-commerce-project-contextAPI/index.html",
+    "precache-manifest.1b9dc6f4a7770d35dec3a8ff2570cdce.js": "/e-commerce-project-contextAPI/precache-manifest.1b9dc6f4a7770d35dec3a8ff2570cdce.js",
+    "service-worker.js": "/e-commerce-project-contextAPI/service-worker.js",
+    "static/css/main.c42da526.chunk.css.map": "/e-commerce-project-contextAPI/static/css/main.c42da526.chunk.css.map",
+    "static/media/crown.ed28accb.svg": "/e-commerce-project-contextAPI/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/e-commerce-project-contextAPI/static/media/shopping-bag.30f07071.svg"
+  }
+}
